@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/October05/Moonlight/_apis/build/status/Ajith-555.ContosoAir?branchName=master)](https://dev.azure.com/October05/Moonlight/_build/latest?definitionId=12&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
